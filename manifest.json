@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-velocity",
+	"name": "Obsidian Velocity",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Obsidian Velocity is designed to bring Notational Velocity style note taking to Obsidian.",
+	"author": "Gavin Nelson",
+	"authorUrl": "https://nelson.co/",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
